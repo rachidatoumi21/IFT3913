@@ -1,13 +1,13 @@
-* [Tests paramétrés en python avec Hypothesis](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/MarionAbsalon), Marion Absalon
-* [JUnit Parameterized Tests](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/Yilin%20Zang), Yilin Zang
-* [OpenGL Tests Unitaires](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/Oscar_Lavolet) , Oscar Lavolet
-* [mockito](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/AleanneCamire), Aléanne Camire
-* [easymock et mokito](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/Yuxiang%20Lin) , Yuxiang Lin
-* [mock/stub et appels IO](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/AndrewClarke), Andrew Clarke
-* [Testing métamorphique appliquée à la sécurité des systèmes web](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/Alexandre%20De%20Laplante), Alexandre De Laplante
-* [DeFlaker automatically detecting flaky tests](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/LouisMalenfant-Poulin), Louis Malenfant-Poulin
+* [Tests paramétrés en python avec Hypothesis](./MarionAbsalon), Marion Absalon
+* [JUnit Parameterized Tests](./Yilin%20Zang), Yilin Zang
+* [OpenGL Tests Unitaires](./Oscar_Lavolet) , Oscar Lavolet
+* [mockito](./AleanneCamire), Aléanne Camire
+* [easymock et mokito](./Yuxiang%20Lin) , Yuxiang Lin
+* [mock/stub et appels IO](./AndrewClarke), Andrew Clarke
+* [Testing métamorphique appliquée à la sécurité des systèmes web](./Alexandre%20De%20Laplante), Alexandre De Laplante
+* [DeFlaker automatically detecting flaky tests](./LouisMalenfant-Poulin), Louis Malenfant-Poulin
 * [Flaky tests]() , Samuel Miller
-* [flaky test](https://github.com/umontreal-diro/IFT3913/tree/main/presentations/Semaine5/XinningXu) , Xinning Xu
+* [flaky test](./XinningXu) , Xinning Xu
 
 
 
